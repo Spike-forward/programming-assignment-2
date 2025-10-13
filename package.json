@@ -1,0 +1,25 @@
+{
+  "name": "programming-assignment-2",
+  "version": "1.0.0",
+  "description": "聚餐分帳擴展與檔案處理 (Bill Splitting Extension with File I/O)",
+  "main": "dist/cli.js",
+  "bin": {
+    "bill-split": "./dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist/cli.js",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "bill-splitting",
+    "typescript",
+    "cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.7.2",
+    "typescript": "^5.9.3"
+  }
+}
