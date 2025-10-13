@@ -1,0 +1,21 @@
+{
+  "people": [
+    {
+      "name": "Alice",
+      "paid": 1200
+    },
+    {
+      "name": "Bob",
+      "paid": 0
+    },
+    {
+      "name": "Charlie",
+      "paid": 800
+    },
+    {
+      "name": "David",
+      "paid": 0
+    }
+  ],
+  "totalAmount": 2000
+}
