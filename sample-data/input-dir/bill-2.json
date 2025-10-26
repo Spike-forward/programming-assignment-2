@@ -1,0 +1,24 @@
+{
+  "date": "2024-03-22",
+  "location": "美味餐廳",
+  "tipPercentage": 15,
+  "items": [
+    {
+      "name": "義大利麵",
+      "price": 120,
+      "isShared": false,
+      "person": "Charlie"
+    },
+    {
+      "name": "沙拉",
+      "price": 45,
+      "isShared": true
+    },
+    {
+      "name": "咖啡",
+      "price": 25,
+      "isShared": false,
+      "person": "Alice"
+    }
+  ]
+}

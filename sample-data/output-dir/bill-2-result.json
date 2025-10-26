@@ -1,0 +1,17 @@
+{
+  "date": "2024年3月22日",
+  "location": "美味餐廳",
+  "subTotal": 190,
+  "tip": 28.5,
+  "totalAmount": 218.5,
+  "items": [
+    {
+      "name": "Charlie",
+      "amount": 163.9
+    },
+    {
+      "name": "Alice",
+      "amount": 54.6
+    }
+  ]
+}

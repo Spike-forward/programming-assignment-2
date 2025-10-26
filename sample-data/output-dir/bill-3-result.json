@@ -1,0 +1,21 @@
+{
+  "date": "2024年3月23日",
+  "location": "火鍋店",
+  "subTotal": 495,
+  "tip": 59.4,
+  "totalAmount": 554.4,
+  "items": [
+    {
+      "name": "Bob",
+      "amount": 194.2
+    },
+    {
+      "name": "Alice",
+      "amount": 182.9
+    },
+    {
+      "name": "Charlie",
+      "amount": 177.3
+    }
+  ]
+}
